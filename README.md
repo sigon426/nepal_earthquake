@@ -7,7 +7,7 @@
 [shakemap](http://earthquake.usgs.gov/earthquakes/eventpage/us20002926#impact_shakemap)
 
 
-
+![pga.jpg](https://raw.githubusercontent.com/sigon426/nepal_earthquake/master/pga.jpg)
 
 
 ### Intensity Contours
